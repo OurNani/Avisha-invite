@@ -1,7 +1,15 @@
 body {
   background-color: #F1F0EE;
+  margin: 0;
 }
 
-.marigold-bunting {
-  background-image: url(file:///Users/partha.dave/Documents/GitHub/Avisha-invite/marigold-bunting.png);
+ .marigold-bunting {
+
+   width: 100%;
+}
+
+.ganesh svg {
+  height: 100px;
+  margin-top:50px;
+  color: #F554AF;
 }
