@@ -9,9 +9,13 @@ body {
 }
 
 .ganesh svg {
-  height: 100px;
+  height: 150px;
 padding-top: 40px;
   display: block;
   margin: auto;
   fill:black;
+}
+
+h1 {
+  text-align: center;
 }
