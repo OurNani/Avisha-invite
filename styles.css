@@ -1,3 +1,7 @@
-h1 {
-  color: red;
+body {
+  background-color: #F1F0EE;
+}
+
+.marigold-bunting {
+  background-image: url(file:///Users/partha.dave/Documents/GitHub/Avisha-invite/marigold-bunting.png);
 }
