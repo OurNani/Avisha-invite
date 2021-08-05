@@ -9,7 +9,9 @@ body {
 }
 
 .ganesh svg {
-  height: 100px;
-  margin-top:50px;
-  color: #F554AF;
+  height: 60px;
+padding-top: 40px;
+  display: block;
+  margin: auto;
+  fill:black;
 }
