@@ -21,8 +21,21 @@ font-family: 'Dancing Script', cursive;
 text-align: center;
 font-size: 120px;
 color: #70063D;
+margin: 0;
+}
+
+.peacock-headline {
+  color: #253848;
 }
 
 .h1-tag {
   font-size: 60px;
+}
+
+.reception-background {
+  background-color: #FEFBF6;
+}
+
+.peacock {
+  margin-top:30px;
 }
