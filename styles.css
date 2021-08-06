@@ -22,6 +22,8 @@ text-align: center;
 font-size: 120px;
 color: #70063D;
 margin: 0;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
 }
 
 .peacock-headline {
