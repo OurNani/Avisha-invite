@@ -1,6 +1,7 @@
 body {
   background-color: #F1F0EE;
   margin: 0;
+  text-align: center;
 }
 
  .marigold-bunting {
@@ -40,4 +41,14 @@ margin: 0;
 
 .peacock {
   margin-top:30px;
+}
+
+p {
+  font-size: 14px;
+  font-family: 'Georama', sans-serif;
+}
+
+.main-copy {
+  width: 80%;
+  margin: auto;
 }
