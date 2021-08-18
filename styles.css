@@ -54,3 +54,9 @@ p {
   width: 90%;
   margin: auto;
 }
+
+.bottom-flowers {
+  width: 100%;
+  position: sticky;
+  bottom: 0;
+}
