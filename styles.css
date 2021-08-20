@@ -50,9 +50,21 @@ p {
   font-family: 'Georama', sans-serif;
 }
 
+h2 {
+  font-family: 'Georama', sans-serif;
+  font-size: 15px;
+  padding: 20px;
+  color: black;
+}
+
 .main-copy {
   width: 90%;
   margin: auto;
+
+}
+
+.main-copy hr {
+  margin: 20px 0px;
 }
 
 .bottom-flowers {
@@ -65,5 +77,14 @@ p {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
+  padding: 20px 0px 0px 0px;
+}
+
+.grandparents div {
+  padding: 10px;
+}
+
+.parents {
+  /* color: #70063D; */
   padding: 20px 0px;
 }
