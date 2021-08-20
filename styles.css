@@ -20,7 +20,7 @@ padding-top: 40px;
 h1 {
 font-family: 'Dancing Script', cursive;
 text-align: center;
-font-size: 120px;
+font-size: 100px;
 color: #70063D;
 margin: 0;
 -webkit-font-smoothing: antialiased;
@@ -46,7 +46,7 @@ margin: 0;
 }
 
 p {
-  font-size: 16px;
+  font-size: 12px;
   font-family: 'Georama', sans-serif;
 }
 
@@ -59,4 +59,11 @@ p {
   width: 100%;
   position: sticky;
   bottom: 0;
+}
+
+.grandparents {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  padding: 20px 0px;
 }
